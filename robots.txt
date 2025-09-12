@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://vitorialima.com/sitemap.xml
